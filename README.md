@@ -2,6 +2,16 @@
 
 This project is a simple shopping list application built using **React**, **TypeScript**, and **Vite**. Users can add, remove, and mark items as bought, keeping track of their shopping list in a convenient and interactive interface.
 
+
+## Screenshots
+
+Here are some screenshots of the project:
+
+![Screenshot 1](src/assets/images/screenshot1.png)
+![Screenshot 2](src/assets/images/screenshot2.png)
+![Screenshot 3](src/assets/images/screenshot3.png)
+
+
 ## Demo
 
 Check out the demo video of the Shopping List app:  
